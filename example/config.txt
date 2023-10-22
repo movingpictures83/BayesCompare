@@ -1,0 +1,2 @@
+Prefix plugins/BayesCompare/example/
+Plugin BayesCompare inputfile parameters.txt outputfile none

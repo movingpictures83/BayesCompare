@@ -1,0 +1,15 @@
+loo_m05	LOO_m05.rds
+loo_pop_2_entceae	LOO_pop_2_entceae.rds
+loo_pop_2_entles	LOO_pop_2_entles.rds
+loo_pop_2_e4	LOO_pop_2_e4.rds
+loo_pop_1a2_entceae	LOO_pop_1a2_entceae.rds
+loo_pop_1a2_entles	LOO_pop_1a2_entles.rds
+loo_pop_1a2_e4	LOO_pop_1a2_e4.rds
+loo_pop_2_notax	LOO_pop_2_notax.rds
+loo_pop_1a1_notax	LOO_pop_1a1_notax.rds
+pop_1a2_e4	STAN_MissAA.rds
+n_atbs	n_atbs.rds
+count_s	count_s.rds
+count_sr	count_sr.rds
+count_s_for_pred	count_s_for_pred.rds
+setting_v	setting_v.rds
